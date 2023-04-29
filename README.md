@@ -19,3 +19,5 @@ Responsive: The component is designed to be responsive and work seamlessly on al
 Accessibility: The component is built with accessibility in mind, ensuring that it is usable by all users, including those with disabilities.
 
 Reusable: The component is designed to be reusable, allowing developers to use it in multiple parts of their application with ease.
+
+LINK: http://127.0.0.1:5500/Result%20Card%20Frontend%20Mentor/index.html
